@@ -2,7 +2,6 @@
 
 ## Computer Vision Inference on a Raspberry Pi with Coral Usb Accelerator
 ### an edge-based computer vision solution
-## NU-462-CV-Final
 
 <img src="https://github.com/michael-d-kennedy/NU-462-CV-Final/blob/main/5_Final_Output_MMS_Warning.png?raw=true">
 
