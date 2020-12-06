@@ -1,6 +1,6 @@
-#Is my gate open?
+Is my gate open?
 
-#Computer Vision Inference on a Raspberry Pi with Coral Usb Accelerator
+Computer Vision Inference on a Raspberry Pi with Coral Usb Accelerator
 an edge-based computer vision solution
 NU-462-CV-Final
 
